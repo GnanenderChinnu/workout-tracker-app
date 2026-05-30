@@ -6,6 +6,10 @@ A Flutter-based workout tracking application for recording workouts, exercises, 
 
 [Open the Workout Tracker App](https://gnanenderchinnu.github.io/workout-tracker-app/)
 
+## Project Documentation PDF
+
+[Download Project Documentation](./Workout%20Tracker%20App%20Documentation.pdf)
+
 ## Index
 
 1. [Project Overview](#project-overview)
