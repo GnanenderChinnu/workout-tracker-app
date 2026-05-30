@@ -1,6 +1,10 @@
-# first_flutter_app
+# Workout Tracker App
 
-A new Flutter project.
+A Flutter workout tracker for logging exercises, sets, reps, weights, workout history, reminders, and progress stats.
+
+## Live App
+
+[Open the Workout Tracker App](https://gnanenderchinnu.github.io/workout-tracker-app/)
 
 ## Getting Started
 
